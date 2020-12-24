@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## I'm Michael Zhou, a senior high school student in Ann Arbor, MI.
+
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mzhou08)
+
 <!--
 **mzhou08/mzhou08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
