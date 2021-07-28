@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Michael Zhou, a senior high school student in Ann Arbor, MI.
+### I'm Michael Zhou, a freshman at Carnegie Mellon University's School of Computer Science.
 
 ![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mzhou08)
 
