@@ -4,7 +4,7 @@
 
 ![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mzhou08)
 
-- 🔭 Python/Node.js
+- 🔭 Python/Node.js/React.js
 - 🌱 learning Pandas
 
 <!--
